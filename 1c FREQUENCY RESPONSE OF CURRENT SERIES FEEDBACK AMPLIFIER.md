@@ -1,5 +1,6 @@
+
 ## Exp. No. 1(c)
-**Date:**  
+**Date:**  27/8/25
 
 ## FREQUENCY RESPONSE OF CURRENT SERIES FEEDBACK AMPLIFIER
 <img width="804" height="973" alt="image" src="https://github.com/user-attachments/assets/2ac932c7-64fa-4b6b-b572-2b3cfd8ae11a" />
@@ -16,11 +17,16 @@
 
 # Tabulation
 
+![WhatsApp Image 2025-11-19 at 08 22 04_3f99cf5d](https://github.com/user-attachments/assets/2232a8e8-6755-4fa8-a4a0-f0eb7c5cf03a)
 
 # Graph
 
+![WhatsApp Image 2025-11-19 at 08 20 43_dd33156e](https://github.com/user-attachments/assets/9e57c15f-e482-457a-8804-4729c1e7926b)
+
+![WhatsApp Image 2025-11-19 at 08 21 30_6e3fc262](https://github.com/user-attachments/assets/a3660d8e-f45e-4e8c-afeb-09c3790dc347)
 
 # Sample images 
+![WhatsApp Image 2025-11-19 at 10 36 50_97715f27](https://github.com/user-attachments/assets/86fad25f-8a82-4f7c-984f-440c2975b412)
 
 
 ### **Result**
@@ -42,6 +48,3 @@ The frequency response of the current series feedback amplifier was studied. It 
 ---
 
 **End of Experiment**
-
-
-
